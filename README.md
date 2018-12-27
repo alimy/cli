@@ -1,4 +1,4 @@
-## Sample code relayout fo cli application use go module style
+## Sample code layout for cli application use go module style
 
 ### Usage
 ```$bash
