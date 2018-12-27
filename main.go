@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/alimy/cli/cmd"
+	_ "github.com/alimy/cli/module/hello/cmd"
 	_ "github.com/alimy/cli/version"
 )
 
